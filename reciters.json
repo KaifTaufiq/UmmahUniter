@@ -29,11 +29,22 @@
   "name": "Yasser Al-Dosari",
   "surah": "https://server11.mp3quran.net/yasser/",
   "ayah":"https://verse.mp3quran.net/arabic/yasser_aldossary/128/"
+  },
+  {
+  "name": "Ahmad Al-Ajmy",
+  "surah": "https://server10.mp3quran.net/ajm/128/",
+  "ayah":"https://verse.mp3quran.net/arabic/ahmed_alajmy/128/"
+  },
+  {
+  "name": "Ahmad Nauina",
+  "surah": "https://server11.mp3quran.net/ahmad_nu/",
+  "ayah":"https://verse.mp3quran.net/arabic/ahmed_neana/128/"
   }
+
 ],
  "total": [
   {
- "no":"7"
+ "no":"9"
   }
   ]
 }
