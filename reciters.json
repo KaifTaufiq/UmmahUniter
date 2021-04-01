@@ -39,12 +39,24 @@
   "name": "Ahmad Nauina",
   "surah": "https://server11.mp3quran.net/ahmad_nu/",
   "ayah":"https://verse.mp3quran.net/arabic/ahmed_neana/128/"
+  },
+
+ {
+  "name": "Mahmoud Ali  Albanna",
+  "surah": "https://server8.mp3quran.net/bna_mjwd/",
+  "ayah":"https://verse.mp3quran.net/arabic/mahmoud_ali_albanna/32/"
+  },
+
+{
+  "name": "Hani Arrifai",
+  "surah": "https://server8.mp3quran.net/hani/",
+  "ayah":"https://verse.mp3quran.net/arabic/hani_alrifai/128/"
   }
 
 ],
  "total": [
   {
- "no":"9"
+ "no":"11"
   }
   ]
 }
