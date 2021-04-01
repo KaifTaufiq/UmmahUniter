@@ -1,0 +1,40 @@
+{
+ "reciters": [
+ {
+  "name": "Mishari Rashid al-`Afasy",
+  "id": "1",
+  "surah": "http://server8.mp3quran.net/afs/",
+  "ayah":"https://verses.quran.com/Alafasy/mp3/"
+  },
+  {
+  "name": "",
+  "id": "",
+  "surah": "",
+  "ayah":""
+  },
+  {
+  "name": "",
+  "id": "",
+  "surah": "",
+  "ayah":""
+  },
+  {
+  "name": "",
+  "id": "",
+  "surah": "",
+  "ayah":""
+  },
+  {
+  "name": "",
+  "id": "",
+  "surah": "",
+  "ayah":""
+  },
+  {
+  "name": "",
+  "id": "",
+  "surah": "",
+  "ayah":""
+  }
+]
+}
