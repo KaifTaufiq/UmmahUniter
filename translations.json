@@ -1,0 +1,19 @@
+{
+ "translator": [
+   {
+     "name": "Dr. Mustafa Khattab",
+     "id" : "131",
+     "book" : "The Clear Quran"
+   },
+   {
+     "name": "Mufti Muhammad Shafi",
+     "id" : "167",
+     "book" : "Maarif-ul-Quran"
+  }
+ ],
+ "total": [
+  {
+ "no":"3"
+  }
+  ]
+}
