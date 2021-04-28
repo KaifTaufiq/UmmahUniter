@@ -1,6 +1,6 @@
 {
  "reciters": [
- {
+  {
   "name": "Mishari Rashid al-`Afasy",
   "surah": "http://server8.mp3quran.net/afs/",
   "ayah":"https://verses.quran.com/Alafasy/mp3/"
@@ -40,20 +40,17 @@
   "surah": "https://server11.mp3quran.net/ahmad_nu/",
   "ayah":"https://verse.mp3quran.net/arabic/ahmed_neana/128/"
   },
-
- {
+  {
   "name": "Mahmoud Ali  Albanna",
   "surah": "https://server8.mp3quran.net/bna_mjwd/",
   "ayah":"https://verse.mp3quran.net/arabic/mahmoud_ali_albanna/32/"
   },
-
-{
+  {
   "name": "Hani Arrifai",
   "surah": "https://server8.mp3quran.net/hani/",
   "ayah":"https://verse.mp3quran.net/arabic/hani_alrifai/128/"
   },
-
- {
+  {
   "name": "Maher Al Meaqli",
   "surah": "https://server12.mp3quran.net/maher/",
   "ayah":"https://verse.mp3quran.net/arabic/maher_almuaiqly/128/"
