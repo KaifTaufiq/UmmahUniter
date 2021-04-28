@@ -58,11 +58,21 @@
   "surah": "https://server12.mp3quran.net/maher/",
   "ayah":"https://verse.mp3quran.net/arabic/maher_almuaiqly/128/"
   }
+  {
+  "name": "English (Sahih International)",
+  "surah": "",
+  "ayah":"http://www.everyayah.com/data/English/Sahih_Intnl_Ibrahim_Walk_192kbps/"
+  },
+  {
+  "name": "Urdu Shamshad ALi",
+  "surah": "",
+  "ayah":"http://www.everyayah.com/data/translations/urdu_shamshad_ali_khan_46kbps/"
+  }
 
 ],
  "total": [
   {
- "no":"12"
+ "no":"14"
   }
   ]
 }
